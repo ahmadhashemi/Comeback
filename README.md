@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 # Comeback
 Bring back iOS peak performance on older devices
-=======
-# CarrierChanger
-Carrier Changer uses the iOS 11.3.1 multi_path exploit to change your device's carrier. Kinda like zeppelin if you will.
 
+Comeback uses the iOS 11.3.1 multi_path exploit to bring back iOS peak performance on older devices.
 
-Yes this requires a Paid Apple Developer Account.
->>>>>>> initial commit
+This requires a Paid Apple Developer Account.
